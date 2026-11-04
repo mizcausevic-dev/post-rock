@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+pr01,After the Rail,pack-local equal-tempered pitch collection,A,108,4/4,480,32,61440,midi/pr01-after-the-rail/pr01-after-the-rail-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pr02,Long Form,pack-local equal-tempered pitch collection,C,108,4/4,480,32,61440,midi/pr02-long-form/pr02-long-form-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pr03,Quiet Lift,pack-local equal-tempered pitch collection,D#,108,4/4,480,32,61440,midi/pr03-quiet-lift/pr03-quiet-lift-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+pr04,Open Return,pack-local equal-tempered pitch collection,A#,108,4/4,480,32,61440,midi/pr04-open-return/pr04-open-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
