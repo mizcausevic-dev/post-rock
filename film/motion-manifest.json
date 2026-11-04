@@ -1,0 +1,26 @@
+{
+  "title": "Post-Rock",
+  "study": "pr01",
+  "bpm": 108,
+  "source_audio": "preview/post-rock-simple-synth-preview.mp3",
+  "source_audio_sha256": "ceb06adfdce54043c4e02ed3ba0df7ddd543ec465f38caaed027c2efc964cb3c",
+  "source_midi": "midi/pr01-after-the-rail/pr01-after-the-rail-combined.mid",
+  "source_midi_sha256": "f90a6cbe3e616327cef18134e44ae5b195d2a293c247c60ecf5a125e511d7382",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "3ac2771569d3a46302c66102ee8870bcc3d2ab13f26852149d4599243e30c9ee",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "4f6a16fb5bb9f7b636596fbd43e5a6356295b3340d5c74f2e637a9472357d032",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "c87440d0c3307a36f3cf154c4396f8bc2b25e7fe5939064adf318ce53b2ace15",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
