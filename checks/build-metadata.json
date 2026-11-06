@@ -1,11 +1,11 @@
 {
   "generator_version": "release-train-1.0.0",
   "pack": "post-rock",
-  "source_builder_sha256": "c0abe9cf1a144cdc7da7a652cae05056e5b150082fbe129914d67230b97d1fc5",
+  "source_builder_sha256": "38d7ad3b37d97e1a0d97612ce2f4f5fb3da422e9e56399b9ee1ff1e195a188a0",
   "commands": [
     "python tools/build_release.py --pack post-rock",
     "python tools/validate_release.py"
   ],
-  "run_time_utc": "2026-11-04T03:14:09.552294+00:00",
+  "run_time_utc": "2026-11-06T11:28:20.548785+00:00",
   "python": "3.14.0"
 }

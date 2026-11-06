@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/post-rock-simple-synth-preview.mp3",
-  "preview_sha256": "ceb06adfdce54043c4e02ed3ba0df7ddd543ec465f38caaed027c2efc964cb3c",
+  "preview_sha256": "a34d62a627621bd7c7f935c8891cea275c6a115d3f78096746c3df319b380f50",
   "source_midi_path": "midi/pr01-after-the-rail/pr01-after-the-rail-combined.mid",
-  "source_midi_sha256": "f90a6cbe3e616327cef18134e44ae5b195d2a293c247c60ecf5a125e511d7382",
+  "source_midi_sha256": "fb09f5203a2c839a7ad4998d6efb4e5b9aac7a8e16dddd95a80de75e4671097d",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 71.111
   },
   "measurement": {
-    "sample_peak": 0.153529,
+    "sample_peak": 0.151955,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
