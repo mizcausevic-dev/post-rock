@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/post-rock-midi.zip",
-      "bytes": 30328,
-      "sha256": "f50ae463586461d96c8ee0da6abf9ef37a6a7f7da084d8a0c91fe45246c576cc"
+      "bytes": 32740,
+      "sha256": "aa2954330ade5876197d0a867029f08ea74c42f15082725a280cb66de6c8f6b5"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10211,
-      "sha256": "42a80fc400ee8ee00ab5b31261d3d2866cead58a3684d14bf9627c4e08a099b8"
+      "bytes": 10401,
+      "sha256": "4253fd7f288e4edd77a9d6fe367474352ac4a3161e1ababf4cd26502b6e6c24d"
     },
     {
       "path": "midi/pr01-after-the-rail/chord_pulse.mid",
@@ -257,6 +257,11 @@
       "sha256": "41e891e7e2774d1dbe342b030f492c122ff4d795af983870369578bfadf730fd"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 780,
       "sha256": "d0b6eb1219fc55ce2ef385058af278772037fdbd8f8cd40df43ff937d5a7069e"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3336,
-      "sha256": "cb66d76353b4fbc2a4e51248128482ec48fbce6e5bd0114fcb75d3212c5c85bf"
+      "bytes": 3451,
+      "sha256": "69009a1ea67c50eb68a30f439401442a223891c6ef364edfdccbbc29a1558c59"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
